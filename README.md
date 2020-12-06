@@ -2,8 +2,8 @@
 
 ## Content:
 
-### React Hooks
-### Basic UI Component
-### State
-### Props
-### React Navigation
+### - React Hooks
+### - Basic UI Component
+### - State
+### - Props
+### - React Navigation

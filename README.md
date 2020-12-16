@@ -7,4 +7,4 @@
 ### - State
 ### - Props
 ### - React Navigation (Stack , Tab, Drawer)
-### - React Native (Camera, Google Map)
+### - React Native (Camera, Google Map, Location)
